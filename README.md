@@ -30,7 +30,7 @@
 |25|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXGRcOVw3XGJcUlRYMUlUODIuanBnIgQIARAPQAE-~/2C0BF1OGMPRAE/03qOdNVMybMrDpw5/RTX1IT82.jpg|
 |26|http://binaryapi.ap.org/d664f461653b49fa9f3b44fdd40b94ca/preview/AP17271465214965.jpg?wm=api&ver=0|
 |27|http://binaryapi.ap.org/64ef1f350d1643c1925aa88f21e6bd9a/preview/AP19337491398136.jpg?wm=api&ver=0|
-|28|테스트2|
+|28|https://i.cbc.ca/1.5903338.1612558759!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/mexico-tennis-acapulco-open.jpg|
 |29|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhhcVFIzXGVcZVxkXDRcUlRYVzRGSC5qcGciBAgBEA9AAQ--~/2C0BF1JW2NJ2/Vgfw1ds7Y1l1Q@q9/RTXW4FH.jpg|
 |30|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXGVcZlxmXGFcUlRSMzMyWEwuanBnIgQIARAPQAE-~/2C0408THNQWSY/bQUfRH18EUxL7bmF/RTR332XL.jpg|
 |31|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXDlcZlxkXDZcUlRYMzAyUU8uanBnIgQIARAPQAE-~/2C0BF1FG3DIEC/XMo1MIO1ll2tITkV/RTX302QO.jpg|
