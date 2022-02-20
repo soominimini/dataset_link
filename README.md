@@ -26,7 +26,7 @@
 |21|http://binaryapi.ap.org/3188abcf6b804c1fab99ca0b124eb83d/preview/AP12051404724.jpg?wm=api&ver=1|
 |22|http://binaryapi.ap.org/bdece7ec1d6a4772925be5c48f94e8c9/preview/AP17312146174889.jpg?wm=api&ver=0|
 |23|http://binaryapi.ap.org/eba5f6ecf322466fa093f3b0311a0cb6/preview/AP18236406892558.jpg?wm=api&ver=0|
-|24|테스트2|
+|24||
 |25|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXGRcOVw3XGJcUlRYMUlUODIuanBnIgQIARAPQAE-~/2C0BF1OGMPRAE/03qOdNVMybMrDpw5/RTX1IT82.jpg|
 |26|http://binaryapi.ap.org/d664f461653b49fa9f3b44fdd40b94ca/preview/AP17271465214965.jpg?wm=api&ver=0|
 |27|http://binaryapi.ap.org/64ef1f350d1643c1925aa88f21e6bd9a/preview/AP19337491398136.jpg?wm=api&ver=0|
@@ -51,5 +51,5 @@
 |46|http://binaryapi.ap.org/333c816ac5f6da11af9f0014c2589dfb/preview/AP06060801875.jpg?wm=api&ver=0|
 |47|http://binaryapi.ap.org/297ab22fa9e3da11af9f0014c2589dfb/preview/AP0601130917.jpg?wm=api&ver=0|
 |48|http://binaryapi.ap.org/3a300b659fe5da11af9f0014c2589dfb/preview/AP03051204219.jpg?wm=api&ver=0|
-|49|테스트2|
+|49||
 |50|http://binaryapi.ap.org/4aba78aa2b354458a779b9d829043de2/preview/AP510679414198.jpg?wm=api&ver=0|
