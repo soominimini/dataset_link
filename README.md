@@ -11,13 +11,12 @@
 |7|http://binaryapi.ap.org/46586feb7a9c412da92e3ae40df531dc/preview/AP840510704285.jpg?wm=api&ver=0|
 |8,9|http://binaryapi.ap.org/3f45404a80e14eb0b720ae83699caef7/preview/AP564480410199.jpg?wm=api&ver=0|
 |10|http://binaryapi.ap.org/ecf20960c2cf4bd2be67c9bd78b3768e/preview/AP160809958139.jpg?wm=api&ver=0|
-|16|http://binaryapi.ap.org/d71ceea3e81845e5b2cd1350c7d086d4/preview/AP18228303024578.jpg?wm=api&ver=0|
-|x|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXDZcNlw3XDdcUlRSMjJEUEkuanBnIgQIARAPQAE-~/2C04080A9WM0P/3W3Mz05dZ1pQKyV_/RTR22DPI.jpg|
-|12|http://binaryapi.ap.org/808ef04bb9e3da11af9f0014c2589dfb/preview/AP051228012756.jpg?wm=api&ver=0|
 |11|http://binaryapi.ap.org/f0255c13ce7f4eebb946ce66f8773826/preview/AP19148667126053.jpg?wm=api&ver=0|
-|14|http://binaryapi.ap.org/5441565b42e4489ba2a454b921881820/preview/AP908525220326.jpg?wm=api&ver=0|
+|12|http://binaryapi.ap.org/808ef04bb9e3da11af9f0014c2589dfb/preview/AP051228012756.jpg?wm=api&ver=0|
 |13|http://binaryapi.ap.org/ee1dcf239ccf47a6852db0bbdb30a5d8/preview/AP17353836108814.jpg?wm=api&ver=0|
+|14|http://binaryapi.ap.org/5441565b42e4489ba2a454b921881820/preview/AP908525220326.jpg?wm=api&ver=0|
 |15|http://binaryapi.ap.org/7fe18f654ffb4363ae0a6afbf22b59b3/preview/AP100514138294.jpg?wm=api&ver=0|
+|16|http://binaryapi.ap.org/d71ceea3e81845e5b2cd1350c7d086d4/preview/AP18228303024578.jpg?wm=api&ver=0|
 |17,18|http://binaryapi.ap.org/3e301e92ad5d4641a34f53c6b42e55c6/preview/AP20002424951084.jpg?wm=api&ver=0|
 |19|http://binaryapi.ap.org/0a04fa3ce59a435f9f656afa1e985934/preview/AP19192742969818.jpg?wm=api&ver=0|
 |20|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXDlcNlwwXDdcUlRSMzkwUjguanBnIgQIARAPQAE-~/2C0408TKKA8JO/XhIrb4sc_7H@s@0M/RTR390R8.jpg|
