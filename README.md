@@ -1,7 +1,5 @@
 
-
-
-|Stimulus number|Link|Valence|Arousal|Valence|Arousal|
+|Stimulus number|Link|Non blurred stimuli|(Valence)|Non blurred stimuli|(Arousal)|Blurred stimuli(Valence)|Blurred stimuli(Arousal)|
 |---- | ---- | ---- | ----| ----| ----| 
 |1|https://pictures.reuters.com/Assets/V2/ChFSVFNTNTAwMDAwMDAwMDAwNhIDVFIzGhlcVFIzXGNcN1wzXDlcUlRSNDA4VTcuanBnIgQIARAPQAE-~/2C0408TAC3BKN/3xM2Eot28KB24PIo/RTR408U7.jpg|
 |2|http://binaryapi.ap.org/e7bd47957e1a4bdf8133a897b0ea6aaf/preview/AP19261543854692.jpg?wm=api&ver=0|
